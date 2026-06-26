@@ -64,11 +64,11 @@ This project analyzes customer purchasing behavior to identify buying patterns, 
 
 ```
 Customer-Behavior-Analysis/
-│
-├── customer_behavior_dataset.csv
+│__  README.md
 ├── customer_analysis_jupyternotebook.ipynb
-├── customer_behavior_dashboard.pbix
-├── README.md
+├── customer_behaviour_dashboard.pbix 
+├──customer_behavior_dataset.csv
+├── customer_behaviour_sql.sql
 ```
 
 ```
